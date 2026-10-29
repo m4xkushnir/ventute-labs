@@ -28,4 +28,4 @@ with its own README and tests.
 
 ## Ownership
 
-Copyright © Ventute. All rights reserved. This repository is not open source.
+Copyright © Maxim Cusnir (Ventute, P.IVA 04156050124). All rights reserved. This repository is not open source.

@@ -13,8 +13,8 @@ GitHub username and the date. You sign once, and it covers every pull request af
 
 ## 1. Parties
 
-This Agreement is between **[Ventute legal entity name]**, registered in [country] under number
-[company number], at [registered address] ("**Ventute**"), and the person who signs it from their
+This Agreement is between **Maxim Cusnir**, a sole trader operating the Ventute website and software,
+P.IVA 04156050124, of Gerenzano, Italy ("**Ventute**"), and the person who signs it from their
 GitHub account as described above (the "**Contributor**").
 
 The Contributor contributes software, data and documentation to Ventute's `ventute-labs` repository
@@ -96,8 +96,8 @@ The Contributions are otherwise provided "as is", with no warranty of fitness fo
    comment or LinkedIn message. Ventute may remove repository access at any time.
 2. **What survives.** Clauses 3, 4, 5 and 6.2 to 6.4 continue after this Agreement ends, for every
    Contribution made while it was in force.
-3. **Governing law.** This Agreement is governed by the laws of [country], and the courts of [country]
-   have exclusive jurisdiction.
+3. **Governing law.** This Agreement is governed by the laws of Italy, and the courts of Italy have
+   exclusive jurisdiction.
 4. **Whole agreement.** This is the entire agreement about the Contributions. Changes must be in
    writing and agreed by both parties. If any clause is unenforceable, the rest still applies.
 5. **Electronic signature.** Signing by GitHub comment as described above is the Contributor's
