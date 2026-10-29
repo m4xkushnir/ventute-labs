@@ -8,8 +8,9 @@ Post this comment on your pull request, exactly as written:
 
 > I have read the CLA Document and I hereby sign the CLA
 
-Then post a second comment with your full legal name and country. Your signature is recorded with your
-GitHub username and the date. You sign once, and it covers every pull request after that.
+Then send your full legal name and country to Ventute privately, by LinkedIn message or to
+support@ventute.com. Don't post them in a public comment. Your signature is recorded with
+your GitHub username and the date. You sign once, and it covers every pull request after that.
 
 ## 1. Parties
 
@@ -88,13 +89,24 @@ The Contributions are otherwise provided "as is", with no warranty of fitness fo
    portfolio and LinkedIn profile, without sharing Confidential Information.
 4. **Independent status.** The Contributor is not an employee, partner or agent of Ventute and cannot
    act or make commitments on Ventute's behalf.
+5. **Age.** The Contributor confirms they are at least 18 years old.
 
-## 7. Term and general terms
+## 7. Personal data
+
+Ventute processes the Contributor's GitHub username, GitHub user ID, the date and pull request of
+signing, and the legal name and country they send privately, only to record and enforce this
+Agreement (GDPR Article 6(1)(b)) and to give the credit in clause 6.2. The signature record is stored
+in this repository on the `cla-signatures` branch and is public, like the pull request itself. The
+legal name and country are kept privately and are not published. Ventute keeps this data for as long
+as the Contributions are used and 10 years after, to be able to prove ownership. The Contributor can
+ask for access, correction or erasure where the law allows at support@ventute.com, and can complain to the Garante per la protezione dei dati personali.
+
+## 8. Term and general terms
 
 1. **Term.** This Agreement starts when the Contributor signs it and covers Contributions made before
    that date too. Either party may end it at any time by written notice, including by email, GitHub
    comment or LinkedIn message. Ventute may remove repository access at any time.
-2. **What survives.** Clauses 3, 4, 5 and 6.2 to 6.4 continue after this Agreement ends, for every
+2. **What survives.** Clauses 3, 4, 5, 6.2 to 6.4 and 7 continue after this Agreement ends, for every
    Contribution made while it was in force.
 3. **Governing law.** This Agreement is governed by the laws of Italy, and the courts of Italy have
    exclusive jurisdiction.
