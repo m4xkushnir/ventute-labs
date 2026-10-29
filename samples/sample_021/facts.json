@@ -1,0 +1,21 @@
+{
+  "company": "Harbour & Pine",
+  "sector": "furniture retail",
+  "country": "United Kingdom",
+  "city": "Bristol",
+  "currency": "GBP",
+  "language": "en",
+  "period": "February 2024",
+  "revenue": 433000,
+  "previous_month_revenue": 420547,
+  "operating_costs": 375257,
+  "operating_result": 57743,
+  "cash": 1495000,
+  "headcount": 31,
+  "open_roles": 4,
+  "top_customer_share_pct": 18,
+  "events": [
+    "a supplier raised prices by 6%",
+    "a key employee resigned"
+  ]
+}

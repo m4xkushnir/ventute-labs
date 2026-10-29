@@ -1,0 +1,21 @@
+{
+  "company": "Brightfield Credit",
+  "sector": "consumer lending",
+  "country": "Netherlands",
+  "city": "Utrecht",
+  "currency": "EUR",
+  "language": "en",
+  "period": "July 2025",
+  "revenue": 624000,
+  "previous_month_revenue": 562693,
+  "operating_costs": 472961,
+  "operating_result": 151039,
+  "cash": 2401000,
+  "headcount": 87,
+  "open_roles": 6,
+  "top_customer_share_pct": 33,
+  "events": [
+    "a large order was delayed to next month",
+    "a supplier raised prices by 6%"
+  ]
+}

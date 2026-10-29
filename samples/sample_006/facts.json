@@ -1,0 +1,21 @@
+{
+  "company": "Saltmarsh Foods",
+  "sector": "food manufacturing",
+  "country": "United Kingdom",
+  "city": "Norwich",
+  "currency": "GBP",
+  "language": "en",
+  "period": "November 2026",
+  "revenue": 812000,
+  "previous_month_revenue": 757156,
+  "operating_costs": 586439,
+  "operating_result": 225561,
+  "cash": 2187000,
+  "headcount": 80,
+  "open_roles": 6,
+  "top_customer_share_pct": 45,
+  "events": [
+    "a key employee resigned",
+    "a new product line launched"
+  ]
+}

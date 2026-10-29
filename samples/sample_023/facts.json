@@ -1,0 +1,21 @@
+{
+  "company": "Café Oriel",
+  "sector": "hospitality",
+  "country": "France",
+  "city": "Lyon",
+  "currency": "EUR",
+  "language": "en",
+  "period": "November 2025",
+  "revenue": 378000,
+  "previous_month_revenue": 357779,
+  "operating_costs": 346133,
+  "operating_result": 31867,
+  "cash": 1684000,
+  "headcount": 120,
+  "open_roles": 0,
+  "top_customer_share_pct": 41,
+  "events": [
+    "a supplier raised prices by 6%",
+    "the bank renewed the overdraft facility"
+  ]
+}

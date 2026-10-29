@@ -1,0 +1,21 @@
+{
+  "company": "Harbour & Pine",
+  "sector": "furniture retail",
+  "country": "United Kingdom",
+  "city": "Bristol",
+  "currency": "GBP",
+  "language": "en",
+  "period": "March 2027",
+  "revenue": 586000,
+  "previous_month_revenue": 579586,
+  "operating_costs": 552919,
+  "operating_result": 33081,
+  "cash": 2696000,
+  "headcount": 48,
+  "open_roles": 5,
+  "top_customer_share_pct": 32,
+  "events": [
+    "a supplier raised prices by 6%",
+    "the bank renewed the overdraft facility"
+  ]
+}

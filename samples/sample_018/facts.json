@@ -1,0 +1,21 @@
+{
+  "company": "Northgate Clinics",
+  "sector": "healthcare services",
+  "country": "Sweden",
+  "city": "Malmö",
+  "currency": "SEK",
+  "language": "en",
+  "period": "May 2025",
+  "revenue": 609000,
+  "previous_month_revenue": 641377,
+  "operating_costs": 601740,
+  "operating_result": 7260,
+  "cash": 2951000,
+  "headcount": 98,
+  "open_roles": 5,
+  "top_customer_share_pct": 31,
+  "events": [
+    "a new product line launched",
+    "a competitor opened nearby"
+  ]
+}

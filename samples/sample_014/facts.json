@@ -1,0 +1,21 @@
+{
+  "company": "Brightfield Credit",
+  "sector": "consumer lending",
+  "country": "Netherlands",
+  "city": "Utrecht",
+  "currency": "EUR",
+  "language": "en",
+  "period": "October 2024",
+  "revenue": 266000,
+  "previous_month_revenue": 247197,
+  "operating_costs": 318799,
+  "operating_result": -52799,
+  "cash": 2670000,
+  "headcount": 35,
+  "open_roles": 0,
+  "top_customer_share_pct": 25,
+  "events": [
+    "a new product line launched",
+    "the bank renewed the overdraft facility"
+  ]
+}

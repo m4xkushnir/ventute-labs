@@ -1,0 +1,21 @@
+{
+  "company": "Lumen Analytics",
+  "sector": "B2B software",
+  "country": "Ireland",
+  "city": "Cork",
+  "currency": "EUR",
+  "language": "en",
+  "period": "April 2025",
+  "revenue": 752000,
+  "previous_month_revenue": 650608,
+  "operating_costs": 634644,
+  "operating_result": 117356,
+  "cash": 1815000,
+  "headcount": 120,
+  "open_roles": 2,
+  "top_customer_share_pct": 28,
+  "events": [
+    "a large order was delayed to next month",
+    "a supplier raised prices by 6%"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Tessera Studio",
+  "sector": "design agency",
+  "country": "Italy",
+  "city": "Turin",
+  "currency": "EUR",
+  "language": "it",
+  "period": "August 2026",
+  "revenue": 213000,
+  "previous_month_revenue": 185609,
+  "operating_costs": 150310,
+  "operating_result": 62690,
+  "cash": 1846000,
+  "headcount": 32,
+  "open_roles": 2,
+  "top_customer_share_pct": 26,
+  "events": [
+    "a competitor opened nearby",
+    "the bank renewed the overdraft facility"
+  ]
+}

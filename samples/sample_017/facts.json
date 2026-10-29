@@ -1,0 +1,21 @@
+{
+  "company": "Panaderia Sol",
+  "sector": "bakery chain",
+  "country": "Spain",
+  "city": "Valencia",
+  "currency": "EUR",
+  "language": "en",
+  "period": "August 2025",
+  "revenue": 146000,
+  "previous_month_revenue": 125981,
+  "operating_costs": 154034,
+  "operating_result": -8034,
+  "cash": 401000,
+  "headcount": 10,
+  "open_roles": 2,
+  "top_customer_share_pct": 42,
+  "events": [
+    "a key employee resigned",
+    "a supplier raised prices by 6%"
+  ]
+}

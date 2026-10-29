@@ -1,0 +1,21 @@
+{
+  "company": "Brightfield Credit",
+  "sector": "consumer lending",
+  "country": "Netherlands",
+  "city": "Utrecht",
+  "currency": "EUR",
+  "language": "en",
+  "period": "November 2027",
+  "revenue": 164000,
+  "previous_month_revenue": 185177,
+  "operating_costs": 191231,
+  "operating_result": -27231,
+  "cash": 843000,
+  "headcount": 43,
+  "open_roles": 2,
+  "top_customer_share_pct": 31,
+  "events": [
+    "a competitor opened nearby",
+    "a new product line launched"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Café Oriel",
+  "sector": "hospitality",
+  "country": "France",
+  "city": "Lyon",
+  "currency": "EUR",
+  "language": "fr",
+  "period": "August 2027",
+  "revenue": 831000,
+  "previous_month_revenue": 876567,
+  "operating_costs": 693400,
+  "operating_result": 137600,
+  "cash": 1360000,
+  "headcount": 85,
+  "open_roles": 1,
+  "top_customer_share_pct": 17,
+  "events": [
+    "a large order was delayed to next month",
+    "a new product line launched"
+  ]
+}

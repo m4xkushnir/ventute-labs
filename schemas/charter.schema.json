@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": false,
+  "properties": {
+    "mission": {
+      "title": "Mission",
+      "type": "string"
+    },
+    "target_customer": {
+      "title": "Target Customer",
+      "type": "string"
+    },
+    "strategic_bet": {
+      "enum": [
+        "premium",
+        "price",
+        "speed",
+        "innovation",
+        "service"
+      ],
+      "title": "Strategic Bet",
+      "type": "string"
+    },
+    "non_negotiables": {
+      "default": [],
+      "items": {
+        "type": "string"
+      },
+      "title": "Non Negotiables",
+      "type": "array"
+    }
+  },
+  "required": [
+    "mission",
+    "target_customer",
+    "strategic_bet"
+  ],
+  "title": "Charter",
+  "type": "object",
+  "description": "The company's strategic identity, set at founding."
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Northgate Clinics",
+  "sector": "healthcare services",
+  "country": "Sweden",
+  "city": "Malmö",
+  "currency": "SEK",
+  "language": "en",
+  "period": "July 2026",
+  "revenue": 366000,
+  "previous_month_revenue": 326238,
+  "operating_costs": 308424,
+  "operating_result": 57576,
+  "cash": 2013000,
+  "headcount": 59,
+  "open_roles": 5,
+  "top_customer_share_pct": 33,
+  "events": [
+    "a large order was delayed to next month",
+    "the bank renewed the overdraft facility"
+  ]
+}

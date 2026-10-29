@@ -1,0 +1,8 @@
+[
+  {
+    "type": "numeric_mismatch",
+    "field": "cash",
+    "expected": "€401,000",
+    "found": "€200,500"
+  }
+]

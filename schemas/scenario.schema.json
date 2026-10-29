@@ -1,0 +1,221 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "scenario.schema.json",
+  "title": "Scenario",
+  "description": "A complete starting scenario for a Ventute run.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "founding_data": {
+      "$ref": "#/$defs/FoundingData"
+    },
+    "strategy_brief": {
+      "type": "string",
+      "description": "The founder's opening strategy, in their own words."
+    },
+    "difficulty": {
+      "enum": [
+        "easy",
+        "simulation",
+        "challenge"
+      ]
+    },
+    "charter": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/Charter"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null
+    }
+  },
+  "required": [
+    "founding_data",
+    "strategy_brief",
+    "difficulty"
+  ],
+  "$defs": {
+    "FoundingData": {
+      "additionalProperties": false,
+      "properties": {
+        "owner_name": {
+          "title": "Owner Name",
+          "type": "string"
+        },
+        "owner_background": {
+          "title": "Owner Background",
+          "type": "string"
+        },
+        "business_name": {
+          "title": "Business Name",
+          "type": "string"
+        },
+        "country": {
+          "title": "Country",
+          "type": "string"
+        },
+        "city": {
+          "title": "City",
+          "type": "string"
+        },
+        "starting_year": {
+          "title": "Starting Year",
+          "type": "integer"
+        },
+        "legal_structure": {
+          "title": "Legal Structure",
+          "type": "string"
+        },
+        "starting_capital": {
+          "title": "Starting Capital",
+          "type": "number"
+        },
+        "capital_source": {
+          "title": "Capital Source",
+          "type": "string"
+        },
+        "preferred_language": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Preferred Language"
+        },
+        "initial_physical_assets": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Initial Physical Assets"
+        },
+        "initial_tech": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Initial Tech"
+        },
+        "initial_inventory": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Initial Inventory"
+        },
+        "company_context": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Company Context"
+        },
+        "sector": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Sector"
+        },
+        "operating_model": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Operating Model"
+        }
+      },
+      "required": [
+        "owner_name",
+        "owner_background",
+        "business_name",
+        "country",
+        "city",
+        "starting_year",
+        "legal_structure",
+        "starting_capital",
+        "capital_source"
+      ],
+      "title": "FoundingData",
+      "type": "object",
+      "description": "The company a run starts from: founder, business, location, capital and context."
+    },
+    "Charter": {
+      "additionalProperties": false,
+      "properties": {
+        "mission": {
+          "title": "Mission",
+          "type": "string"
+        },
+        "target_customer": {
+          "title": "Target Customer",
+          "type": "string"
+        },
+        "strategic_bet": {
+          "enum": [
+            "premium",
+            "price",
+            "speed",
+            "innovation",
+            "service"
+          ],
+          "title": "Strategic Bet",
+          "type": "string"
+        },
+        "non_negotiables": {
+          "default": [],
+          "items": {
+            "type": "string"
+          },
+          "title": "Non Negotiables",
+          "type": "array"
+        }
+      },
+      "required": [
+        "mission",
+        "target_customer",
+        "strategic_bet"
+      ],
+      "title": "Charter",
+      "type": "object",
+      "description": "The company's strategic identity, set at founding."
+    }
+  }
+}

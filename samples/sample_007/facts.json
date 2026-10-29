@@ -1,0 +1,21 @@
+{
+  "company": "Panaderia Sol",
+  "sector": "bakery chain",
+  "country": "Spain",
+  "city": "Valencia",
+  "currency": "EUR",
+  "language": "es",
+  "period": "March 2026",
+  "revenue": 376000,
+  "previous_month_revenue": 392645,
+  "operating_costs": 289385,
+  "operating_result": 86615,
+  "cash": 1886000,
+  "headcount": 86,
+  "open_roles": 5,
+  "top_customer_share_pct": 39,
+  "events": [
+    "a supplier raised prices by 6%",
+    "the bank renewed the overdraft facility"
+  ]
+}

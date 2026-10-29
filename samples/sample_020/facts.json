@@ -1,0 +1,21 @@
+{
+  "company": "Fernhill Energy",
+  "sector": "solar installation",
+  "country": "Poland",
+  "city": "Wrocław",
+  "currency": "PLN",
+  "language": "en",
+  "period": "December 2024",
+  "revenue": 601000,
+  "previous_month_revenue": 690737,
+  "operating_costs": 420918,
+  "operating_result": 180082,
+  "cash": 2383000,
+  "headcount": 112,
+  "open_roles": 0,
+  "top_customer_share_pct": 45,
+  "events": [
+    "the bank renewed the overdraft facility",
+    "a competitor opened nearby"
+  ]
+}

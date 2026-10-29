@@ -1,0 +1,21 @@
+{
+  "company": "Fernhill Energy",
+  "sector": "solar installation",
+  "country": "Poland",
+  "city": "Wrocław",
+  "currency": "PLN",
+  "language": "en",
+  "period": "June 2025",
+  "revenue": 247000,
+  "previous_month_revenue": 220572,
+  "operating_costs": 299400,
+  "operating_result": -52400,
+  "cash": 2302000,
+  "headcount": 74,
+  "open_roles": 6,
+  "top_customer_share_pct": 14,
+  "events": [
+    "a competitor opened nearby",
+    "a key employee resigned"
+  ]
+}

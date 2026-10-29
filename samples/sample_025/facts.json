@@ -1,0 +1,21 @@
+{
+  "company": "Kestrel Logistics",
+  "sector": "freight",
+  "country": "Germany",
+  "city": "Leipzig",
+  "currency": "EUR",
+  "language": "en",
+  "period": "May 2025",
+  "revenue": 720000,
+  "previous_month_revenue": 773340,
+  "operating_costs": 667528,
+  "operating_result": 52472,
+  "cash": 2209000,
+  "headcount": 61,
+  "open_roles": 2,
+  "top_customer_share_pct": 9,
+  "events": [
+    "the bank renewed the overdraft facility",
+    "a large order was delayed to next month"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "company": "Kestrel Logistics",
+  "sector": "freight",
+  "country": "Germany",
+  "city": "Leipzig",
+  "currency": "EUR",
+  "language": "de",
+  "period": "August 2027",
+  "revenue": 593000,
+  "previous_month_revenue": 511763,
+  "operating_costs": 699760,
+  "operating_result": -106760,
+  "cash": 2546000,
+  "headcount": 61,
+  "open_roles": 3,
+  "top_customer_share_pct": 5,
+  "events": [
+    "a key employee resigned",
+    "a large order was delayed to next month"
+  ]
+}
