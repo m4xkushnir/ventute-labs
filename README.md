@@ -24,8 +24,8 @@ with its own README and tests.
 - Use your own LLM API key from an environment variable. Never commit keys, `.env` files or real
   personal data.
 - All changes go through a pull request into `main`.
-- See `CONTRIBUTING.md` before your first pull request.
+- See `CONTRIBUTING.md` before your first pull request. Signing `CLA.md` is required.
 
 ## Ownership
 
-Copyright © Ventute. All rights reserved. This repository is private and is not open source.
+Copyright © Ventute. All rights reserved. This repository is not open source.

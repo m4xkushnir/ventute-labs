@@ -1,7 +1,8 @@
 # Contributing
 
-1. Before your first pull request, you need to have signed the contributor agreement that assigns
-   the code you contribute to Ventute. Ask the maintainer for it if you haven't received it.
+1. Sign the contributor agreement (`CLA.md`) on your first pull request. A bot will comment with
+   the instructions: post the signing sentence it gives, then a comment with your full legal name
+   and country. Pull requests can't be merged until you've signed.
 2. Work on a branch and open a pull request into `main`. Keep each pull request focused on one change.
 3. Every pull request needs tests that run without network access, and a short note on how to run
    them.
