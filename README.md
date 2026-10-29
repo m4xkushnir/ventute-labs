@@ -11,6 +11,9 @@ Ventute's servers. Everything runs offline against the files in this repo.
 | `samples/` | 30 synthetic evaluation samples. Each folder has `facts.json` (what was true), `output.txt` (the report written from it) and `labels.json` (problems planted in the report, empty when clean) |
 | `tools/make_samples.py` | The script that built `samples/`. Rerun it to rebuild them |
 
+Every company, person and figure in `samples/` is fictional. Any resemblance to a real business is
+coincidental.
+
 Label types in `samples/`: `numeric_mismatch`, `hallucination`, `contradiction`,
 `internal_inconsistency`, `wrong_language`.
 
@@ -28,4 +31,4 @@ with its own README and tests.
 
 ## Ownership
 
-Copyright © Maxim Cusnir (Ventute, P.IVA 04156050124). All rights reserved. This repository is not open source.
+Copyright © Maxim Cusnir (Ventute, P.IVA 04156050124). All rights reserved. This repository is not open source. See `LICENSE`.
